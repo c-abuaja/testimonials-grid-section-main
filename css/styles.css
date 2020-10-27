@@ -82,12 +82,12 @@ p {
 
 .jeanette {
   background-color: hsl(0, 0%, 100%);
-  color: hsl(219, 29%, 14%);
   width: 240px;
   height: 250px;
   position: absolute;
   border-radius: 10px;
   margin-top: 280px;
+  color: hsl(219, 29%, 14%);
 
 }
 
