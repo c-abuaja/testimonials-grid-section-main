@@ -71,7 +71,22 @@ p {
   border: 2px solid;
   border-color: hsl(263, 55%, 52%);
 }
-
+.css-image1 {
+  border-radius: 50%;
+  float: left;
+  margin: 30px 15px 0 30px;
+  width: 25px;
+  border: 2px solid;
+  border-color: hsl(263, 55%, 52%);
+}
+.css-image2 {
+  border-radius: 50%;
+  float: left;
+  margin: 30px 15px 0 30px;
+  width: 25px;
+  border: 2px solid;
+  border-color: hsl(263, 55%, 52%);
+}
 .jonathan {
   background-color: hsl(217, 19%, 35%);
   width: 240px;
